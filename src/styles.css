@@ -42,7 +42,7 @@ section img.background {
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
-  z-index: 2;
+  z-index: -1;
 }
 
 h1 {
