@@ -33,8 +33,8 @@ const projectList = [
   {
     title: "Food Monkey ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Online Fullstack website to order food",
+    url: "https://gofood-49n8-2oasufkug-prateek2pathaks-projects.vercel.app/",
   },
 ];
 
